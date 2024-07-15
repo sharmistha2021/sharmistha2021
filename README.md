@@ -1,5 +1,5 @@
 
-!(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+!(https://github.com/sharmistha2021/sharmistha2021/blob/main/fotor-ai-20240715191934.jpg)
 ### Hi there 👋
 ### I'm Sharmistha
 #### Computer science and Engineering Student | Aspiring software developer
