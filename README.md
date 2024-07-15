@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sharmistha Sarkar
 #### I am an aspiring developer
-![I am an aspiring developer]
+
 
 
 Skills: PHP/ HTML / CSS
