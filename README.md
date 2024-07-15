@@ -1,5 +1,5 @@
 
-![I am GitHub Readme Generator's creator](https://github.com/sharmistha2021/sharmistha2021/blob/main/fotor-ai-20240715191934.jpg?raw=true)
+![I am GitHub Readme Generator's creator]([https://github.com/sharmistha2021/sharmistha2021/blob/main/fotor-ai-20240715191934.jpg](https://github.com/sharmistha2021/sharmistha2021/blob/main/file.jpg?raw=true)?raw=true)
 ### Hi there 👋
 ### I'm Sharmistha
 #### Computer science and Engineering Student | Aspiring software developer
