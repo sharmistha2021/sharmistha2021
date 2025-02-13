@@ -6,10 +6,10 @@
 
 
 
-Skills: PHP/ HTML / CSS
+Skills: PHP/ HTML / CSS / Ruby
 
-- 🔭 I’m interested in Web development, Machine learning , Computer graphics 
-- 🌱 I’m currently learning computer graphics 
+- 🔭 I’m interested in Web development, Deep learning , Computer graphics , Version control and Collaboration
+- 🌱 I’m currently learning Lynux server administration 
 - 📫 How to reach me: sharmistha2021.skr@gmail.com 
 
 
