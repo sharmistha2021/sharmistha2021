@@ -2,14 +2,14 @@
 ![I am GitHub Readme Generator's creator](https://github.com/sharmistha2021/sharmistha2021/blob/main/file.jpg?raw=true)
 ### Hi there 👋
 ### I'm Sharmistha
-#### Computer Science and Engineering Student | Aspiring Software Developer
+#### Computer Science and Engineering Student | Aspiring Software Engineer
 
 
 
 Skills: PHP/ HTML / CSS / Ruby
 
-- 🔭 I’m interested in Web development, Deep learning , Computer graphics , Version control and Collaboration
-- 🌱 I’m currently learning Lynux server administration 
+- 🔭 I’m interested in Web development, Deep learning, Version control and Collaboration
+- 🌱 I’m currently learning Cyber security
 - 📫 How to reach me: sharmistha2021.skr@gmail.com 
 
 
