@@ -6,7 +6,7 @@
 
 
 
-Skills: PHP/ HTML / CSS / Ruby
+Skills: PHP/ HTML / CSS / Ruby / Python
 
 - 🔭 I’m interested in Web development, Deep learning, Version control and Collaboration
 - 🌱 I’m currently learning Deep Learning
