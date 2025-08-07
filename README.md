@@ -10,7 +10,7 @@ Skills: PHP/ HTML / CSS / Ruby
 
 - 🔭 I’m interested in Web development, Deep learning, Version control and Collaboration
 - 🌱 I’m currently learning Deep Learning
-- 📫 How to reach me: sharmistha2021.skr@gmail.com 
+- 📫 How to reach me: sharmisthasskr0@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sharmistha2021)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sharmistha/)  
