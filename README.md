@@ -8,7 +8,7 @@
 
 Skills: PHP/ HTML / CSS / Ruby / Python
 
-- 🔭 I’m interested in Web development, Deep learning, Version control and Collaboration
+- 🔭 I’m interested in Deep learning, Version control and Collaboration
 - 🌱 I’m currently learning Deep Learning
 - 📫 How to reach me: sharmisthasskr0@gmail.com 
 
