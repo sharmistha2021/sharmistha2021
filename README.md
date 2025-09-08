@@ -6,7 +6,7 @@
 
 
 
-Skills: PHP/ HTML / CSS / Ruby / Python
+Skills: PHP/ HTML / CSS / Ruby / Python / Machine Learning / Deep Learning
 
 - 🔭 I’m interested in Data Science, Machine Learning, Deep Learning
 - 🌱 I’m currently learning Deep Learning
