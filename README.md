@@ -9,7 +9,7 @@
 Skills: PHP/ HTML / CSS / Ruby / Python / Machine Learning / Deep Learning
 
 - 🔭 I’m interested in Data Science, Machine Learning, Deep Learning
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently Data Science
 - 📫 How to reach me: sharmisthasskr0@gmail.com 
 
 
