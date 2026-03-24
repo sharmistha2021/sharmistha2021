@@ -2,7 +2,7 @@
 ![I am GitHub Readme Generator's creator](https://github.com/sharmistha2021/sharmistha2021/blob/main/file.jpg?raw=true)
 ### Hi there 👋
 ### I'm Sharmistha
-#### Computer Science and Engineering Graduate | Aspiring ML Engineer
+#### Computer Science and Engineering Graduate | Aspiring Data Scientist
 
 
 
